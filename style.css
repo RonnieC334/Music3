@@ -1,0 +1,47 @@
+body {
+    background-size: cover;
+}
+
+.heading{
+    font-size: 17px;
+    width: 100%;
+    margin: 0px
+}
+
+.div_speed {
+    float: left;
+}
+.div_vol {
+    float: right;
+}
+
+.Dimg {
+    width: 200px;
+    border-radius: 100px;
+
+}
+
+.Dvol {
+    width: 200px;
+    border-radius: 100px;
+
+}
+
+#speed {
+    margin: 15px;
+    font-size: 23px;
+}
+
+#vol {
+    margin: 15px;
+    font-size: 23px;
+}
+
+.play_button {
+    font-size: 23px;
+    width: 180px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
